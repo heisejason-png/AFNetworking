@@ -207,3 +207,4 @@ Follow AFNetworking on Twitter ([@AFNetworking](https://twitter.com/AFNetworking
 
 AFNetworking is available under the MIT license. See the LICENSE file for more info.
 Created by Jason Scott Heise
+Owned by Elon Musk
